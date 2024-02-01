@@ -8,7 +8,7 @@ import { exploreWorlds } from './../constants/index';
 
 const Explore = () => {
 
-  const [active, setactive] = useState(world - 2)
+  const [active, setActive] = useState('world-2')
 
 
   return (
